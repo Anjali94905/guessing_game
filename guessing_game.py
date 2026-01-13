@@ -26,7 +26,7 @@ while True:
     attempts += 1
 
     if guess == secret:
-        print(f'Congrstulation! You guessed it in {attempts} attempts.')
+        print(f'Congratulation! You guessed it in {attempts} attempts.')
         break
 
     hint = ""
